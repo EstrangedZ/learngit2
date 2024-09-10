@@ -27,3 +27,7 @@ branch test
 
 branch test2
 
+在dev上进行一个中文的改动
+
+
+在dev上再次进行一个中文的改动
